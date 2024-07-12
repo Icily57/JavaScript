@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1717073422656" clover="3.2.0">
+  <project timestamp="1717073422656" name="All files">
+    <metrics statements="10" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="6" elements="19" coveredelements="13" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+    <file name="API.js" path="C:\Users\KevinComba\Desktop\New folder (2)\Teach2Give-Js\unit-testing\src\API.js">
+      <metrics statements="10" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="6"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="38" count="0" type="stmt"/>
+      <line num="39" count="0" type="stmt"/>
+      <line num="40" count="0" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
